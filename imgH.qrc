@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgH/thumb_Google_Earth.png</file>
+	<file>imgH/Pointer1.png</file>
+	<file>imgH/Mundo.png</file>
+	<file>imgH/checkicon1.png</file>
+	<file>imgH/checkicon2.png</file>
+	<file>imgH/checkicon3.png</file>
+	<file>imgH/checkicon4.png</file>
+	<file>imgH/myicon.ico</file>
+    </qresource>
+</RCC>
