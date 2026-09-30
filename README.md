@@ -1,3 +1,3 @@
 "# GEOHAM" 
 SW de geração e tratamento de mosaicos
-Versão 0.683
+Versão 0.684
